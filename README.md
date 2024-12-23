@@ -10,8 +10,8 @@
  　 ないです
 
 ''''bash
-リポジトリのクローン
-cd 保存したいファイル名
-git clone https://github.com/yuki-shirakata/practice_repos.git
-cd practice_repos
+リポジトリのクローン  
+cd 保存したいファイル名  
+git clone https://github.com/yuki-shirakata/practice_repos.git  
+cd practice_repos  
 
